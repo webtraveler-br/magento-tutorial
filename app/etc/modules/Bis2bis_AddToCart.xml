@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Bis2bis_AddToCart>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </Bis2bis_AddToCart>
+    </modules>
+</config>

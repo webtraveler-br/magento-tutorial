@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Bis2bis_AddToCart>
+            <version>1.0.0</version>
+        </Bis2bis_AddToCart>
+    </modules>
+    <global>
+    </global>
+    <frontend>
+        <routers>
+            <bis2bis_addtocart>
+                <use>standard</use>
+                <args>
+                    <frontName>addtocart</frontName>
+                    <module>Bis2bis_AddToCart</module>
+                </args>
+            </bis2bis_addtocart>
+        </routers>
+    </frontend>
+</config>
