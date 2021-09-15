@@ -6,6 +6,13 @@
         </Bis2bis_AddToCart>
     </modules>
     <global>
+        <helpers>
+            <bis2bis_addtocart>
+                <class>
+                    Bis2bis_AddToCart_Helper
+                </class>
+            </bis2bis_addtocart>
+        </helpers>
     </global>
     <frontend>
         <routers>
