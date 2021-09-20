@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Bis2bis_Integration>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </Bis2bis_Integration>
+    </modules>
+</config>

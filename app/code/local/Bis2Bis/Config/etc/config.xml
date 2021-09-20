@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Bis2Bis_Config>
+            <version>1.0.0</version>
+        </Bis2Bis_Config>
+    </modules>
+    <global>
+        <helpers>
+            <bis2bis_config>
+                <class>Bis2Bis_Config_Helper</class>
+            </bis2bis_config>
+        </helpers>
+    </global>
+    <default>
+        <configuracao>
+            <visual>
+                <palavra>teste</palavra>
+            </visual>
+        </configuracao>
+    </default>
+</config>

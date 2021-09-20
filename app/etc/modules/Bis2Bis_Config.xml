@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Bis2Bis_Config>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </Bis2Bis_Config>
+    </modules>
+</config>
